@@ -1,0 +1,15 @@
+Week 4
+
+This week I started reading the Docs on Framework7 official website. Since I am absolutely new to this framework 
+which uses Javascript and HTML I had to start from the very begining.
+
+In particular I read about App HTML Layout, which turned out to be different for Ios and Android, 
+eventhough this is a hybrid framework. I also read about Views which might include Side menu, tabs etc.
+I read about Pages which are esentially the 'screens' the user sees in his/her mobile device.
+
+After reading all of these I tried them out on my computer using some ready made codes from the website and tried understanding
+what each css class does in the code snippets. 
+
+At the end, using the web browser of my mobile device, I visited the folder on my computer, using the localhost address. I did
+this in order to test how the pages would look on a real mobile device, as I was concerned for the responsiveness of the app, 
+but so far it looked pretty tidy.
