@@ -1,0 +1,5 @@
+Week 4
+
+I learned from tutorials that Framework7 is easy  because can compute any android or iOS using just HTML CSS Javascript. After i downloaded it i need a server to run.
+After this we try at localhost/FrameworkMobile for watching  and i saw some sample for some very nice features.
+I learned changing styling to custumize app as we want and also installed phonegap that we will need later.
