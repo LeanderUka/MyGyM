@@ -1,0 +1,5 @@
+Week 4
+ 
+During this week I have been learning from tutorials about Framework7.It was a very nice tool to make apps for Android or IOS.
+After this we try at localhost/FrameworkMobile for watching  and i saw some sample for some very nice features.
+With the tutorials I learned about its components: navbars,toolbars,buttons,swiper slider,infinite scroll,notifications etc.
