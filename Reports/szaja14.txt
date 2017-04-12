@@ -1,0 +1,5 @@
+During the 4th week I got familiar with one of the technologies that we will use to build our application Framework7. I read tutorials about:
+
+Framework7 components: navbars,toolbars,buttons,swiper slider,infinite scroll,notifications etc.
+Framework7 styling: provides different color themes to costumize the app
+Framework7 Fast Clicks library : active state,tap hold event,touch ripple
